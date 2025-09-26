@@ -54,8 +54,7 @@
   <a href="https://www.credly.com/badges/e62381bb-dde4-40da-b2f2-549336275379">
     <img src="Agentic Era Hackathon Badge.png" 
          alt="GOOGLE ADK Certification Badge" 
-         width="110" 
-         height="110">
+         width="300" >
   </a>
 </div>
 
