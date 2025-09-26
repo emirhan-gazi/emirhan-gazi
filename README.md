@@ -52,7 +52,7 @@
 
 <div align="center">
   <a href="https://www.credly.com/badges/e62381bb-dde4-40da-b2f2-549336275379">
-    <img src="https://images.credly.com/size/110x110/images/e62381bb-dde4-40da-b2f2-549336275379/badge.png" 
+    <img src="Agentic Era Hackathon Badge.png" 
          alt="GOOGLE ADK Certification Badge" 
          width="110" 
          height="110">
@@ -61,7 +61,7 @@
 
 ### AUVSI SUAS Certification
 
-<img src="./images/auvsi-certificate.jpg" width="300" alt="AUVSI Competition Certificate">
+<img src="auvsi-certificate.jpg" width="300" alt="AUVSI Competition Certificate">
 
 ## 🔬 Research Areas
 
