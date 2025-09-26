@@ -28,10 +28,6 @@
     <td>Implementing LLMs and fine-tuning models for production</td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/CEVIZ-Co_Founder_&_CEO-gold?style=for-the-badge" /></td>
-    <td>Sector based LLM and AI solutions </td>
-  </tr>
-  <tr>
     <td><img src="https://img.shields.io/badge/ITU_ARC-AI_Research_Assistant-teal?style=for-the-badge" /></td>
     <td>Anomaly detection and LLM applications in aviation</td>
   </tr>
