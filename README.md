@@ -61,7 +61,7 @@
 
 ### AUVSI SUAS Certification
 
-<img src="auvsi-certificate.jpg" width="300" alt="AUVSI Competition Certificate">
+<img src="auvsi-badge.png" width="300" alt="AUVSI Competition Certificate">
 
 ## 🔬 Research Areas
 
