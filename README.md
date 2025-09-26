@@ -60,8 +60,8 @@
 </div>
 
 ### AUVSI SUAS Certification
+<div align="center"> <img src="auvsi-badge.png" width="300" alt="AUVSI Competition Certificate"> </div>
 
-<img src="auvsi-badge.png" width="300" alt="AUVSI Competition Certificate">
 
 ## 🔬 Research Areas
 
