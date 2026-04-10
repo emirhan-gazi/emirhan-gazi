@@ -70,9 +70,14 @@
 ## 💼 Featured Projects
 
 <div align="center">
-  
+
+<a href="https://github.com/emirhan-gazi/kaizen">
+  <img src="https://raw.githubusercontent.com/emirhan-gazi/kaizen/main/kaizen.png" alt="Kaizen" width="200" />
+</a>
+
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [**Kaizen**](https://github.com/emirhan-gazi/kaizen) | Continuous AI improvement — auto-optimize prompts with DSPy, fine-tune models, deliver as reviewable PRs | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![DSPy](https://img.shields.io/badge/DSPy-blueviolet?style=flat) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
 | **Finance Fine-Tuning LLM** | Stock market prediction using sentiment analysis | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Transformers](https://img.shields.io/badge/🤗_Transformers-yellow) |
 | **Air Traffic Management RL** | Optimizing Istanbul Grand Airport traffic flow | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
 | **Multi-Policy Agent RL** | Single manager controlling multiple unit types | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenAI_Gym](https://img.shields.io/badge/OpenAI_Gym-green) |
